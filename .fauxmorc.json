@@ -1,0 +1,9 @@
+{
+  "devices": [
+    {
+      "type": "ExampleDevice",
+      "name": "office fan",
+      "port": 11001
+    }
+  ]
+}
